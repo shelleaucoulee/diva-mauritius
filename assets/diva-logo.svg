@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="t d">
+<title id="t">DIVA Mauritius</title><desc id="d">Dealers in Imported Motor Vehicles Association Mauritius logo</desc>
+<rect width="1200" height="760" rx="38" fill="#fff"/>
+<g fill="none" stroke="#15365f" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
+<path d="M238 214c62-76 134-109 232-111 120-3 239 23 358 98 48 30 97 48 170 51"/>
+<path d="M171 263c83-8 170-10 259-6 104 5 211 19 319 42 79 17 161 26 252 25"/>
+<circle cx="351" cy="295" r="28" fill="#15365f" stroke="none"/><circle cx="846" cy="315" r="28" fill="#15365f" stroke="none"/>
+</g>
+<text x="124" y="505" font-family="Arial,Helvetica,sans-serif" font-size="238" font-weight="800" letter-spacing="-10" fill="#15365f">DIVA</text>
+<g transform="translate(865 365)">
+<path d="M112 8c18 24 30 53 29 82-1 29-15 54-40 71-24 16-31 43-23 72 6 24-2 47-20 63-25 22-61 20-81 1-24-22-22-52-1-77 14-17 21-37 16-57-8-31 1-56 27-75 23-17 28-43 18-69-8-20 0-38 18-49 20-13 43-8 57 8z" fill="#15365f"/>
+</g>
+<g fill="none" stroke-width="18" stroke-linecap="round">
+<path d="M178 557c240-10 438 20 617 76 73 23 145 34 219 35" stroke="#d9222a"/>
+<path d="M190 582c231-1 425 31 596 82 79 24 154 36 226 37" stroke="#1d67b1"/>
+<path d="M206 606c211 6 390 38 551 84 89 26 171 39 248 40" stroke="#f2c21b"/>
+<path d="M227 630c186 9 350 39 496 78 104 28 197 43 277 45" stroke="#2c9b49"/>
+</g>
+<text x="152" y="690" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700" fill="#15365f">DEALERS IN IMPORTED MOTOR VEHICLES ASSOCIATION</text>
+<text x="500" y="735" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="800" fill="#15365f">MAURITIUS</text>
+</svg>
